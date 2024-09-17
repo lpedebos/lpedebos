@@ -8,7 +8,7 @@ As a background, I use to work as a nurse practicioner (bachelor's degree) and h
 Nowadays I have been working as a specialized consultant for health data, data analyst and database developer.
 
 <div align="center">
-<img src="https://pokemon-status.vercel.app/?pokemon=squirtle&user=lpedebos&theme=charmander">
+<img src="https://pokemon-status.vercel.app/?pokemon=squirtle&user=lpedebos&theme=dratini">
 </div>
 <!--
 **lpedebos/lpedebos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
