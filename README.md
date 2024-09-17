@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+<img src="https://pokemon-status.vercel.app/?pokemon=squirtle&user=lpedebos&theme=charmander">
+</div>
 <!--
 **lpedebos/lpedebos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
