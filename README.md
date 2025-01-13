@@ -7,8 +7,6 @@ As a background, I use to work as a nurse practicioner (bachelor's degree) and h
 
 Nowadays I have been working as a specialized consultant for health data, data analyst and database developer.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lpedebos)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div align="center">
 <img src="https://pokemon-status.vercel.app/?pokemon=squirtle&user=lpedebos&theme=dratini">
 </div>
